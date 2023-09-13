@@ -1,4 +1,5 @@
 # Adam and Joanna's Repository
+![adam](https://github.com/DanMyers300/JoannaAndAdam/blob/adam/adam.png?raw=true)
 ## Scratch
 - https://cs50.harvard.edu/scratch/2021
 1. [Sprites](https://cs50.harvard.edu/scratch/2021/weeks/1/)
